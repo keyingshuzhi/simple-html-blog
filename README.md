@@ -2,7 +2,7 @@
 这是一个 **简单的 HTML 静态博客示例**，适合快速学习和部署在 GitHub Pages 上。  
 项目包含首页、关于页面、基础 CSS 和简单 JS 文件，非常适合初学者快速上手。
 ## 目录
-
+``` angular2html
 simple-html-blog/
 │
 ├─ index.html       # 首页
@@ -13,6 +13,7 @@ simple-html-blog/
 │    └─ js/
 │         └─ main.js
 └─ README.md        # 项目说明
+```
 
 ## 功能特点
 
